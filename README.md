@@ -1,6 +1,6 @@
 # 코딩테스트 준비하기
 
-<ol>
+<ul>
   <li>swea </li>
   <li> baekjoon </li>
-</ol>
+</ul>
