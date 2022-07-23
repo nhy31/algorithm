@@ -8,3 +8,7 @@
 
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nyssott73](https://solved.ac/nyssott73)
+
+<p>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nyssott73)](https://solved.ac/nyssott73)
+</p>
