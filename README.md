@@ -12,13 +12,4 @@
 <br>
 :memo: daliyLog.txt : 푼 문제와 날짜 기록 <br>
 
-<br>
-:heavy_check_mark: algorithm
-<ul>
-  <li> DFS </li>
-  <li> BFS </li>
-</ul>
-
-
-
 
