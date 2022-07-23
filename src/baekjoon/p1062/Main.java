@@ -1,4 +1,4 @@
-package DFS.P1062;
+package baekjoon.p1062;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
@@ -30,7 +30,8 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
   
-        System.setIn(new FileInputStream("src/DAY01/q1_p1062_garchim/input.txt"));
+        // System.setIn(new FileInputStream("src/baekjoon/p1062/input.txt"));
+        
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 
