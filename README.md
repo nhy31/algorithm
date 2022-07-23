@@ -7,4 +7,6 @@
 :memo: daliyLog.txt에 날짜와 푼 문제 기록 <br> <br>
 
 <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nhy31)](https://solved.ac/nhy31/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nhy31)](https://solved.ac/nhy31/)\
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nhy31">
